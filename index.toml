@@ -411,6 +411,11 @@ hash = "0f1dd282713e3986dbff1baae56a3e8878e8b8d2bcc3d3346417a0405ccc975d"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "35d6eef3435e8ba1c0cdf387d902ee5cb08931e22f45a5377cfab35f0e656780"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "669991ae6ecfe6a6911779234560d0c21b3963de84c4024d61e8372b06eedb5c"
 metafile = true
@@ -448,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "a9102d609587827231935f8fb6f2998c082e84ba4e4af69c8164a6cc7a95d10a"
+metafile = true
+
+[[files]]
+file = "mods/flerovium.pw.toml"
+hash = "8f83c6cebb939223b1277ef248e5f4959591c54f23fb60679ad445c0bcb0c5b6"
 metafile = true
 
 [[files]]
