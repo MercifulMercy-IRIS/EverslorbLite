@@ -1,13 +1,8 @@
 name = "Embeddium"
 filename = "embeddium-0.3.31+mc1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+url = "http://enviouslabs.com/embeddium-0.3.31+mc1.20.1.jar"
 hash-format = "sha256"
-hash = "64e446ffd05d4a05a0855ff7165c1cf5ced96845073909c48cff116db6aaa664"
-
-[update]
-[update.modrinth]
-mod-id = "sk9rgfiA"
-version = "UTbfe5d1"
+hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
