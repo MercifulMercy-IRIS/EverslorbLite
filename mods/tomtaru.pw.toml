@@ -1,0 +1,7 @@
+name = "Tomtaru"
+filename = "download"
+
+[download]
+url = "https://www.curseforge.com/api/v1/mods/930346/files/5450837/download"
+hash-format = "sha256"
+hash = "6d86e296d6a607c3b5ee67e7dcba6007b01dab8832125c3ca645409417fc4e50"

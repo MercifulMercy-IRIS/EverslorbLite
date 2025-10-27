@@ -1,0 +1,13 @@
+name = "Twilight Forest - Dungeons & Villages"
+filename = "tf_dnv-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eDeSn4Ds/versions/EsxY1B4q/tf_dnv-1.2.2.jar"
+hash-format = "sha256"
+hash = "8bff79d55fd969f87a95f768fee208ef7a5a437ba7a1bcd132834b959fc238ec"
+
+[update]
+[update.modrinth]
+mod-id = "eDeSn4Ds"
+version = "EsxY1B4q"

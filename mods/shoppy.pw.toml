@@ -1,0 +1,13 @@
+name = "Shoppy - Player Maintained Shops"
+filename = "Shoppy-1.20.1-FORGE-1.1.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "c2571bf520f6d2b9526a3e6b2bc68fa6fbd331285c518436d1682a1bbaa1e589"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5002980
+project-id = 559983

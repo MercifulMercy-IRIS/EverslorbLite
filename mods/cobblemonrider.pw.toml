@@ -1,0 +1,13 @@
+name = "CobblemonRider"
+filename = "cobblemonrider-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "e2de97f37be3230177f08888c48329be12f69c271eda42871333ec8427dfc95a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5445719
+project-id = 990998

@@ -1,0 +1,7 @@
+name = "GoblinDeezNuts"
+filename = "goblintraders-forge-1.20.1-1.11.5.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6891/922/goblintraders-forge-1.20.1-1.11.5.jar"
+hash-format = "sha256"
+hash = "05362605ea68a0b45a12b796a6787f30430bd55e462959f0a43ccd63ca14438a"

@@ -1,0 +1,13 @@
+name = "Creatures of Runeterra a League of Legends mod"
+filename = "creaturesofruneterra-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/By69Klll/versions/4P2QYimt/creaturesofruneterra-1.20.1-1.2.2.jar"
+hash-format = "sha256"
+hash = "baacb9d2f5c915681a33da0f359c3a3aab3247f8a0a2acaf944a387162979155"
+
+[update]
+[update.modrinth]
+mod-id = "By69Klll"
+version = "4P2QYimt"

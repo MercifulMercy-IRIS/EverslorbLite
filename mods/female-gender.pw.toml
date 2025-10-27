@@ -1,0 +1,13 @@
+name = "Female Gender Mod"
+filename = "Female-Gender-Mod-forge-1.20.1-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bcOsQHnC/versions/R1d8TWqL/Female-Gender-Mod-forge-1.20.1-3.1.jar"
+hash-format = "sha256"
+hash = "5a2515cc70b27e7aa536c5c8ae570d396f68dc6ebac305f8679fb12036acfa2f"
+
+[update]
+[update.modrinth]
+mod-id = "bcOsQHnC"
+version = "R1d8TWqL"

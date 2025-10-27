@@ -1,0 +1,13 @@
+name = "Cobblemon Poké ball Swap"
+filename = "cobblemon_pokeball_swap-1.1.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3VEQzUQ3/versions/i1dfBEJn/cobblemon_pokeball_swap-1.1.0-forge.jar"
+hash-format = "sha256"
+hash = "7b1f0ccc7d56c399520e3e6aaaddc35d9cfdef09fe05e72761d3ca2cd07fdc12"
+
+[update]
+[update.modrinth]
+mod-id = "3VEQzUQ3"
+version = "i1dfBEJn"

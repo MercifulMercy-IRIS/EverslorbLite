@@ -1,0 +1,13 @@
+name = "Fruits Delight"
+filename = "fruitsdelight-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g6sbyCTu/versions/qPyefm6m/fruitsdelight-1.1.1.jar"
+hash-format = "sha256"
+hash = "661ad7e6c2cee95b9f704f323100f9a59b533b149d1d114c51025b08375c381d"
+
+[update]
+[update.modrinth]
+mod-id = "g6sbyCTu"
+version = "qPyefm6m"

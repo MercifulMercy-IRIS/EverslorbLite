@@ -1,0 +1,7 @@
+name = "FTBXaerosComp"
+filename = "ftbxaerocompat-forge-1.0.1.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7096/291/ftbxaerocompat-forge-1.0.1.jar"
+hash-format = "sha256"
+hash = "c65083a75436e74fec64e1e13ae66483bc551331268215b7ca560f1985129627"

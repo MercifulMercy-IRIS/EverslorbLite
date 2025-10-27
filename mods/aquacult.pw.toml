@@ -1,0 +1,7 @@
+name = "AquaCult"
+filename = "Aquaculture-1.20.1-2.5.5.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6296/111/Aquaculture-1.20.1-2.5.5.jar"
+hash-format = "sha256"
+hash = "8189d09adde558cd2ef97627e9480e4b620c3fa1de7ed064d1c20346288841e5"

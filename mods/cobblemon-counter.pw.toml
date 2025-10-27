@@ -1,0 +1,13 @@
+name = "Cobblemon Counter"
+filename = "cobblemon-counter-1.5-forge-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rj8uLYP4/versions/nJpIwObx/cobblemon-counter-1.5-forge-1.2.0.jar"
+hash-format = "sha256"
+hash = "1e0da7b70c34228605555230bea9bd683c769ec66bbbdf89ffb6ee25546d4a8a"
+
+[update]
+[update.modrinth]
+mod-id = "rj8uLYP4"
+version = "nJpIwObx"

@@ -1,0 +1,13 @@
+name = "Radical Cobblemon Trainers"
+filename = "rctmod-forge-1.20.1-0.12.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lRwTUnD7/versions/8edTHlEm/rctmod-forge-1.20.1-0.12.1-beta.jar"
+hash-format = "sha256"
+hash = "ffa4a875533e76eaf09e5018eab21327923f496836374212ec3aa261282c23ab"
+
+[update]
+[update.modrinth]
+mod-id = "lRwTUnD7"
+version = "8edTHlEm"

@@ -1,0 +1,7 @@
+name = "CobblemonPlenty"
+filename = "Cobblemon O' Plenty 1.20.1 B.2.0.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5450/750/Cobblemon%20O'%20Plenty%201.20.1%20B.2.0.jar"
+hash-format = "sha256"
+hash = "9b09d9ebe9bddde7f7fefff12f2bf61a542892fe677a1503ff35a30a0b2f2012"

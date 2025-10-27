@@ -1,0 +1,13 @@
+name = "Pet Your Cobblemon"
+filename = "petyourcobblemon-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lAyCdN8C/versions/G1bEu9vv/petyourcobblemon-1.2.0.jar"
+hash-format = "sha256"
+hash = "e7dc98261825a28502bc2fb3bed90bc0272cd897c216edcfad0575d4288863e9"
+
+[update]
+[update.modrinth]
+mod-id = "lAyCdN8C"
+version = "G1bEu9vv"

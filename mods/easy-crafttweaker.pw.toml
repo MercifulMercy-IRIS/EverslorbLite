@@ -1,0 +1,13 @@
+name = "Easy CraftTweaker"
+filename = "EasyTweaker 1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uFnl8Tqw/versions/Y1YfTHHe/EasyTweaker%201.20.1-1.0.1.jar"
+hash-format = "sha256"
+hash = "d24e765c7ca5279f10c2c5a7dbf978143b8fea33c6ed2dbd161d10a33784b65d"
+
+[update]
+[update.modrinth]
+mod-id = "uFnl8Tqw"
+version = "Y1YfTHHe"

@@ -1,0 +1,13 @@
+name = "UI Lib"
+filename = "uilib-0.3.6-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AOEDs9Al/versions/GizE27iH/uilib-0.3.6-forge.jar"
+hash-format = "sha256"
+hash = "30c909bee218458756ec8fe54d66eae2862d2735900b9d10c3c443f973f098ce"
+
+[update]
+[update.modrinth]
+mod-id = "AOEDs9Al"
+version = "GizE27iH"

@@ -1,0 +1,13 @@
+name = "Cobblemon : Simple Pokecenter's"
+filename = "cobblemon_simple_center-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9U50uRY3/versions/rYBeMXX5/cobblemon_simple_center-1.0.0-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "6bef74036b4f80d3cde84f010dd8b557b49b94ed40aefa293dded73f9cd1070f"
+
+[update]
+[update.modrinth]
+mod-id = "9U50uRY3"
+version = "rYBeMXX5"

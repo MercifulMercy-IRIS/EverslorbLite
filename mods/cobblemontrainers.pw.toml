@@ -1,0 +1,13 @@
+name = "CobblemonTrainers (Discontinued)"
+filename = "CobblemonTrainers-1.1.11+1.5.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "15d6ca20407fe62edecfb3518c4cf709f23adea5282cae00a3cd04be08da6cce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5601803
+project-id = 959503

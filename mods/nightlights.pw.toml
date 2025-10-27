@@ -1,0 +1,13 @@
+name = "Night Lights"
+filename = "nightlights-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s7pMb898/versions/7QFRIFZg/nightlights-1.20.1-1.1.jar"
+hash-format = "sha256"
+hash = "714775d9b8aee7fa16df51e1b6f1e95cc3cfe6986eb19648fbbee7fe9ff6cbdb"
+
+[update]
+[update.modrinth]
+mod-id = "s7pMb898"
+version = "7QFRIFZg"

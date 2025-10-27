@@ -1,0 +1,13 @@
+name = "Craftable Gunpowder"
+filename = "craftablegunpowder-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A2rTbvVd/versions/cTK2vdU0/craftablegunpowder-1.1.jar"
+hash-format = "sha256"
+hash = "b8c30b6d1e276ece83f761df5b821f6959b7997a87a98cc1e5fa6922085be434"
+
+[update]
+[update.modrinth]
+mod-id = "A2rTbvVd"
+version = "cTK2vdU0"

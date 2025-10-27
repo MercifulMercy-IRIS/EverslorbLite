@@ -1,0 +1,13 @@
+name = "Rotten Flesh To Leather"
+filename = "RottenFleshToLeather-Forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AUoV4JGx/versions/nVIyNV7M/RottenFleshToLeather-Forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "c1504db3ad7a7f3d3bf26b47e35fb52c8a6a0aa180614e1b1ce6d3a8cee0f0aa"
+
+[update]
+[update.modrinth]
+mod-id = "AUoV4JGx"
+version = "nVIyNV7M"

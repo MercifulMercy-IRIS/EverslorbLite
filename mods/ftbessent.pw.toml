@@ -1,0 +1,7 @@
+name = "FTBEssent"
+filename = "ftb-essentials-forge-2001.2.3.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6555/287/ftb-essentials-forge-2001.2.3.jar"
+hash-format = "sha256"
+hash = "dcbec178981988fc67e8838e8eba948325988221941daa6e5dd65441974b39f0"

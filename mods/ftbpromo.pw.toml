@@ -1,0 +1,7 @@
+name = "FTBPromo"
+filename = "ftbpromoter-20.1.58.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6558/930/ftbpromoter-20.1.58.jar"
+hash-format = "sha256"
+hash = "dc7aa94589c9fa2b4639096a23fd8a96c46ca70eea0786c534a74b2b04dd9fe4"

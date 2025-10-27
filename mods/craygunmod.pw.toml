@@ -1,0 +1,8 @@
+name = "CrayGunMod"
+filename = "CGM-Unofficial-1.4.19+Forge+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7041/829/CGM-Unofficial-1.4.19%2BForge%2B1.20.1.jar"
+hash-format = "sha256"
+hash = "afe091aa6bda00e61253fddb5dfb165dd5539e5a8d6b469517fe6032a04c0e9e"

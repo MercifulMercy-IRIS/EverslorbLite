@@ -1,0 +1,7 @@
+name = "FTBFilter"
+filename = "ftb-filter-system-forge-20.0.1.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6466/153/ftb-filter-system-forge-20.0.1.jar"
+hash-format = "sha256"
+hash = "fcb7b312a010986a868a6645e4e395b2635383a2387297c7c134aa4250959e24"

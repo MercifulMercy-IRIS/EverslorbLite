@@ -1,0 +1,13 @@
+name = "Dark Paintings"
+filename = "DarkPaintings-Forge-1.20.1-17.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lFGQ4Hnk/versions/nq6SQw7B/DarkPaintings-Forge-1.20.1-17.0.5.jar"
+hash-format = "sha256"
+hash = "c8ee8d3625dae258e97d773925aca9d882ffce08bddc964821a6cea30bfe1079"
+
+[update]
+[update.modrinth]
+mod-id = "lFGQ4Hnk"
+version = "nq6SQw7B"

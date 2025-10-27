@@ -1,0 +1,13 @@
+name = "MrCrayFish Tactical guns"
+filename = "MrCrayFish Tactical Guns.zip"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "01793b8f76ad3bbf5cd4a951f8b7e483a475ca32ddc8634ecba6f10a927f15c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6983144
+project-id = 1344267

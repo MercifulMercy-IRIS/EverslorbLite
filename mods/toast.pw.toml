@@ -1,0 +1,7 @@
+name = "Toast"
+filename = "download"
+
+[download]
+url = "https://www.curseforge.com/api/v1/mods/271740/files/4711316/download"
+hash-format = "sha256"
+hash = "e9923900cabbc12ffde7cc36113936f24b773bb33b22c19e4109cca52fc55ad6"

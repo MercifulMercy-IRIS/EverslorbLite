@@ -1,0 +1,7 @@
+name = "FTBChunksSupp"
+filename = "ftb-chunks-modded-1.20+1.1.9.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6391/470/ftb-chunks-modded-1.20%2B1.1.9.jar"
+hash-format = "sha256"
+hash = "ac1c0d687867b98ce9c1f86e70bc112e9a1e07b654f21bdcadcb0fa40c090dbb"

@@ -1,0 +1,13 @@
+name = "Newts Relics"
+filename = "relics-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "2d3e09f3eb02fbfc3cff6bca00efae36935c76aec31dfee6fa86384451cf0e1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4741693
+project-id = 910699

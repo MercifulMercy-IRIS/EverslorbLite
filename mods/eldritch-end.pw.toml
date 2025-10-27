@@ -1,0 +1,13 @@
+name = "Eldritch End"
+filename = "Eldritch_End-FORGE-MC1.20.1-0.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nBaXIQY9/versions/OcRVgEXr/Eldritch_End-FORGE-MC1.20.1-0.3.4.jar"
+hash-format = "sha256"
+hash = "f1ca64e66daefefda1c7406e104a0d38d5a0c75c69d5620fce19dba1f444566c"
+
+[update]
+[update.modrinth]
+mod-id = "nBaXIQY9"
+version = "OcRVgEXr"

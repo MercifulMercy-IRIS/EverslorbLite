@@ -1,0 +1,13 @@
+name = "Citadel"
+filename = "citadel-2.6.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jJfV67b1/versions/oD1qDb1C/citadel-2.6.2-1.20.1.jar"
+hash-format = "sha256"
+hash = "bba058ed903670e81cb98996725dbe328ba147fb72cc10cfc9e39aee59cf0824"
+
+[update]
+[update.modrinth]
+mod-id = "jJfV67b1"
+version = "oD1qDb1C"

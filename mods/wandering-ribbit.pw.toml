@@ -1,0 +1,13 @@
+name = "Wandering Ribbit"
+filename = "wandering_ribbit-2.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qYSYk2ef/versions/dSQyRy85/wandering_ribbit-2.0.0-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "fb4b16fa75d941224d7b4119235b28569e7dcbe2c26409577e47b21f8174c44e"
+
+[update]
+[update.modrinth]
+mod-id = "qYSYk2ef"
+version = "dSQyRy85"

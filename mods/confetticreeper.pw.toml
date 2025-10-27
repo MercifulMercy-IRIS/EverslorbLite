@@ -1,0 +1,8 @@
+name = "ConfettiCreeper"
+filename = "creeperconfetti-4.3.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5990/872/creeperconfetti-4.3.jar"
+hash-format = "sha256"
+hash = "dd1f83cf3d5aa9b7e5aeea285387232d86789a4c682fc516e64d984f4ffe7148"

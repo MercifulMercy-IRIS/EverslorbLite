@@ -1,0 +1,7 @@
+name = "LootIntMoog"
+filename = "lootintegrations_moog-1.6.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6679/464/lootintegrations_moog-1.6.jar"
+hash-format = "sha256"
+hash = "b98c0affa8a5bf57d94fb779fead3d3d6d92da25722d872cd5ca923e30029491"

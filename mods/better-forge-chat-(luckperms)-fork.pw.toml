@@ -1,0 +1,13 @@
+name = "Better Forge Chat (LuckPerms) Fork"
+filename = "bfcmod-1.20.1-2.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BmoKrzHq/versions/UZfIGXcU/bfcmod-1.20.1-2.0.2.jar"
+hash-format = "sha256"
+hash = "1e166574dcfb6ecc13286aa943556d865e1840e2de3c915b20589710c785cfaf"
+
+[update]
+[update.modrinth]
+mod-id = "BmoKrzHq"
+version = "UZfIGXcU"

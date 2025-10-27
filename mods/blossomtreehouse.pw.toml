@@ -1,0 +1,7 @@
+name = "BlossomTreeHouse"
+filename = "nebulus_cherryblossom_tree-2.0-forge-1.20.1.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6415/373/nebulus_cherryblossom_tree-2.0-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "086beb660768d6229b00ba3b33266352e1e6eac737d18e3aade9d96b8bb5078a"

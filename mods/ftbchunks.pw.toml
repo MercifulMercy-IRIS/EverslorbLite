@@ -1,0 +1,7 @@
+name = "FTBChunks"
+filename = "ftb-chunks-forge-2001.3.6.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6431/735/ftb-chunks-forge-2001.3.6.jar"
+hash-format = "sha256"
+hash = "caaa40aea64bba6f113fbddcabf77962b4b4e03bf57cbabace07ab05d28b38f9"

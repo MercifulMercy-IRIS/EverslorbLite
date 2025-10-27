@@ -1,0 +1,13 @@
+name = "Better Bundles"
+filename = "BetterBundles-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sVz81S8c/versions/kyTHW4Hv/BetterBundles-1.20.1-1.1.0.jar"
+hash-format = "sha256"
+hash = "db3b6c36bac97013a6276a5e2db68bcdcb188113bc087df8bd91fde0cc29f1ec"
+
+[update]
+[update.modrinth]
+mod-id = "sVz81S8c"
+version = "kyTHW4Hv"

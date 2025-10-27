@@ -1,0 +1,13 @@
+name = "Sweet Calamity"
+filename = "sweet_calamity-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1774eNIB/versions/xghWX7Hd/sweet_calamity-1.0.1.jar"
+hash-format = "sha256"
+hash = "af658f3ac099a87ffa9c30b31f6ce10d1a60a9f68dae7e2e37f63b7c7287213e"
+
+[update]
+[update.modrinth]
+mod-id = "1774eNIB"
+version = "xghWX7Hd"

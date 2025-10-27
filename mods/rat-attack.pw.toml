@@ -1,0 +1,13 @@
+name = "Rat Attack"
+filename = "rat_attack-3.1.0-FO-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/spuxR9yV/versions/UKK1y8gt/rat_attack-3.1.0-FO-1.20.1.jar"
+hash-format = "sha256"
+hash = "ccd8413dd6835062232b4a1114a2abcc4022e3a6eb5c8158b5a76687c65b91f2"
+
+[update]
+[update.modrinth]
+mod-id = "spuxR9yV"
+version = "UKK1y8gt"

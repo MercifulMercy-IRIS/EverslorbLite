@@ -1,0 +1,7 @@
+name = "Twilight"
+filename = "download"
+
+[download]
+url = "https://www.curseforge.com/api/v1/mods/227639/files/5468648/download"
+hash-format = "sha256"
+hash = "0bdc89263616d1b35c32ef82c5e9c14cbd20368e2fe8b468c72a28320be7a778"

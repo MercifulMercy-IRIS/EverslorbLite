@@ -1,0 +1,8 @@
+name = "Brainrot"
+filename = "ItalianBrainrots_V1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6837/986/ItalianBrainrots_V1.jar"
+hash-format = "sha256"
+hash = "d6ae31156012d813436c8928193187fec67fd0625483e714b75e18d1ffd743f9"

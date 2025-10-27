@@ -1,0 +1,7 @@
+name = "MerlonosEco"
+filename = "merlonos_economy-1.0.0-forge-1.20.1.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6379/540/merlonos_economy-1.0.0-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "bfd0939a88adcec005774bfd9ead75ac7cf99b46b3f3114da55809d06c061175"

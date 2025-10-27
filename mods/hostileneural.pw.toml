@@ -1,0 +1,8 @@
+name = "HostileNeural"
+filename = "HostileNeuralNetworks-1.20.1-5.3.3.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5895/36/HostileNeuralNetworks-1.20.1-5.3.3.jar"
+hash-format = "sha256"
+hash = "dcddfb263a0eaf3d69c160d3532802b7f821cb4cc8f6a62aa8c35adde4eaa592"

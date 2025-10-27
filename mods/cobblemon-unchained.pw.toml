@@ -1,0 +1,13 @@
+name = "Cobblemon Unchained"
+filename = "cobblemon-unchained-1.5-forge-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wh0wnzrT/versions/H2jqJ6iw/cobblemon-unchained-1.5-forge-1.0.1.jar"
+hash-format = "sha256"
+hash = "0cea4d6663eaef4edc35c2273f2f897cda2f24887ef4ca56d4995b0c7a8c6de1"
+
+[update]
+[update.modrinth]
+mod-id = "wh0wnzrT"
+version = "H2jqJ6iw"

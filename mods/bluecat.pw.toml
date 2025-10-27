@@ -1,0 +1,7 @@
+name = "BlueCat"
+filename = "Shailushay.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/4768/709/Shailushay.jar"
+hash-format = "sha256"
+hash = "a87caea2a81e30c91dd3b1852443628efe1a67e9a3b2b0fb4dc01bebd122e110"

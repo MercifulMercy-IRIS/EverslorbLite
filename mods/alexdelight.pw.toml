@@ -1,0 +1,7 @@
+name = "AlexDelight"
+filename = "alexsdelight-1.5.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5028/450/alexsdelight-1.5.jar"
+hash-format = "sha256"
+hash = "439da92c904959e805c2237ebda9e96db60870dd3b58b4b402547d494fa0057a"

@@ -1,0 +1,7 @@
+name = "NebulusMeme"
+filename = "nebulus_meme_paintings-1.0.0.jar"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5116/174/nebulus_meme_paintings-1.0.0.jar"
+hash-format = "sha256"
+hash = "3334f45ba2f9a857e7d59f60f7fb6dac1009c6946cd65aaabfff2f55ba497c42"
