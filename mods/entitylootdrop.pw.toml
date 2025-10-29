@@ -1,0 +1,8 @@
+name = "EntityLootDrop"
+filename = "EntityLootDrops-2.9.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7155/876/EntityLootDrops-2.9.1.jar"
+hash-format = "sha256"
+hash = "0c53cf4ca28c06810affebd9c6cecd17d7e2e1a25c774eaa8de77e62657c376d"

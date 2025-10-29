@@ -1,0 +1,8 @@
+name = "ItemBanning"
+filename = "itemblacklist-1.20.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6488/329/itemblacklist-1.20.1-1.1.5.jar"
+hash-format = "sha256"
+hash = "d32117ce267746e001bca95ee019a155845ddf29fdb852353a47a055b3bf3011"

@@ -421,6 +421,11 @@ hash = "669991ae6ecfe6a6911779234560d0c21b3963de84c4024d61e8372b06eedb5c"
 metafile = true
 
 [[files]]
+file = "mods/entitylootdrop.pw.toml"
+hash = "071c1d2c12299ce5247b0668484c3c2e0e43666ff5dab04b8f478d825d2269f5"
+metafile = true
+
+[[files]]
 file = "mods/epherolib.pw.toml"
 hash = "06801914f33ae07a006f295821b0c887fdd9218d95051863d553fb6c4c193678"
 metafile = true
@@ -596,6 +601,11 @@ hash = "0051f3e6b9642cc74545961473a50c172d76d5702b199a623240d45fc34eabfc"
 metafile = true
 
 [[files]]
+file = "mods/itembanning.pw.toml"
+hash = "54a91da4901d5d0a2068d63e324ae843ceb023e07fde676944849c6f38e45b6c"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "e45d31ebd2b2b8cc1139934ff4e881f5a76f589e97558c93fc0704a86102cd00"
 metafile = true
@@ -608,11 +618,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "560402ec66b8c5df72b2fbb0ca12402d4c979f36dbe67c5736097b730034d0f8"
-metafile = true
-
-[[files]]
-file = "mods/jobs-remastered.pw.toml"
-hash = "270a08a25beada9fa4962150fdd1cbab8d7606f0e0a50366dccafd84cb483cf3"
 metafile = true
 
 [[files]]
@@ -838,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/productivebees.pw.toml"
 hash = "15b05e49a725ff6656f8471f686ee76a9d6c53606429664846216a02da4dba7a"
+metafile = true
+
+[[files]]
+file = "mods/project-mmo.pw.toml"
+hash = "37693791908229b2ba38fbbde458cc4e686bb71f6aafed25ede7fb0d819972f0"
 metafile = true
 
 [[files]]
