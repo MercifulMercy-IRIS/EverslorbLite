@@ -681,11 +681,6 @@ hash = "db486dc301235e27f542e447738d6d86a9bb680337e6a040ebc18632475d5be6"
 metafile = true
 
 [[files]]
-file = "mods/merlonos-scythes.pw.toml"
-hash = "06ea9e814116c01c9af302e8133c2fa9d4655932b36cac309d70cd4b2b36164a"
-metafile = true
-
-[[files]]
 file = "mods/merlonoseco.pw.toml"
 hash = "e2dff3cb17e71a106b11ba1016ecaec4d79699e0d2fc0e615c31dbf2a960c8f3"
 metafile = true
