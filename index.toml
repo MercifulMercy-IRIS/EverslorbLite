@@ -751,11 +751,6 @@ hash = "72b5847355803d96a2c94edd0fd8bb91b465e297e01903dcfb9f308bd62b01fd"
 metafile = true
 
 [[files]]
-file = "mods/mtr-moogs-temples-reimagined.pw.toml"
-hash = "98be5c6012abfc31b8bb6d40f7acdb8ba6b4572d8a703831b00d71d0a971af53"
-metafile = true
-
-[[files]]
 file = "mods/nebulusmeme.pw.toml"
 hash = "d18eeac73cf93c448bc983c8abb5d94312fe6d1cee1cd177d31487877993c03c"
 metafile = true
