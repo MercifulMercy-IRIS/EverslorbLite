@@ -981,11 +981,6 @@ hash = "7106ab6a417c8afef785cd31822d379808e7d3e2747edc09657170cecda79ba2"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest-dungeons-villages.pw.toml"
-hash = "fb07b18689e9ae6bdd7a054599c9b6e0cce9c9a60ad9fe8bc5040fd0785330d6"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "57790ebd2f5c9272a0af83b90367cf565b597526031661639afca03e7e1442e7"
 metafile = true
